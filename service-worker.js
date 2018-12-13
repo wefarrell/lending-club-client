@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/lending-club-client/precache-manifest.fc994b8d3325a0c7364d9572ff6d8784.js"
+  "/lending-club-client/precache-manifest.c517f4b486d7d0a06d0660101545f08a.js"
 );
 
 workbox.clientsClaim();
